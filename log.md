@@ -1,1 +1,9 @@
+### Day 1: Febrary 5, 2017
+**Today's Workout:** Rest day with Yoga 
 
+**Thoughts:** I could stay focused in yoga class. Managed myself to do the hooks more than 5 times alone. 
+
+### Day 1: Febrary 6, 2017
+**Today's Workout:** 3 miles run: 38 min / R1: leg and back day 
+
+**Thoughts:** Dinner before a workout was a bad idea. I had to run-stop-walk cycle many times. Let's make sure to empty the stomach before running. Weight training is absolutely about right posture. 
