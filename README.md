@@ -1,6 +1,6 @@
 # 100-days-of-running :zap:
 ---
-A training project to run a half marathon at home before the challenge to find a new home :pray::punch:
+A training to run a half marathon before leaving to a new home :pray:
 
 **Start date: 5th of Febrary (week 1)** 
 
