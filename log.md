@@ -13,3 +13,9 @@
 **Today's Workout:** 3 miles 5km run: 31 min / no lifting day  
 
 **Thoughts:** I honestly did not feel like running today then I remember to practice to behave against I'ms. I just watch my emotions coming and going.
+
+
+### Day 4: Febrary 8, 2017
+**Today's Workout:** rest day 
+
+**Thoughts:** Puf, a long day. Pushing 3 miles to Friday and cross train Sat then KR on sunday.
