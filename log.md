@@ -19,3 +19,8 @@
 **Today's Workout:** rest day 
 
 **Thoughts:** Puf, a long day. Pushing 3 miles to Friday and cross train Sat then KR on sunday.
+
+### Day 5: Febrary 9, 2017
+**Today's Workout:** cross 20 min walk 
+
+**Thoughts:** Calling a day a lot ealier than usual. Two running session left for this week so my legs and mind need a full recovery 
