@@ -33,5 +33,5 @@
 
 **Today's Workout:** Key run week1 4miles (6.5km) 40:20 / Lifting: chest/ shoulder
 
-**Thoughts:** It was a good session, emptying the stomach really helped 
+**Thoughts:** It was a good session, emptying the stomach really helped. Let's stick to the training plan rather than switching training days. KR on sunday is suitable. 
 
