@@ -24,3 +24,14 @@
 **Today's Workout:** cross 20 min walk 
 
 **Thoughts:** Calling a day a lot ealier than usual. Two running session left for this week so my legs and mind need a full recovery 
+
+
+### Day 6: Febrary 10, 2017
+**Today's Workout:** rest
+
+### Day 7: Febrary 11, 2017
+
+**Today's Workout:** Key run week1 4miles (6.5km) 40:20 / Lifting: chest/ shoulder
+
+**Thoughts:** It was a good session, emptying the stomach really helped 
+
