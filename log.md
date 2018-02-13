@@ -33,5 +33,34 @@
 
 **Today's Workout:** Key run week1 4miles (6.5km) 40:20 / Lifting: chest/ shoulder
 
-**Thoughts:** It was a good session, emptying the stomach really helped. Let's stick to the training plan rather than switching training days. KR on sunday is suitable. 
+**Thoughts:** It was a good session, emptying the stomach really helped. Let's stick to the training plan rather than switching training days. KR on sunday is suitable.
+### Day 8: Febrary 12, 2017
 
+**Today's Workout:** Rest day 
+
+### Day 8: Febrary 12, 2017
+
+**Today's Workout:** first run of the week 3miles 29:30 stable 
+
+**Thoughts:** 
+```
+while (heartache) {
+  setTimeout(function getBackToLife()  {
+    code();
+    eatHealthy();
+    workOut();
+    sleep();
+    }, 8.64e+7);
+}
+              
+```
+| Mon | Tue | Wed | Thu | Fri | Sat | Sun |    
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 5th | 6th | 7th | 8th | 9th | 10th| 11th|
+| Rest| 3miles 38:00 | 3miles 31:00 |  walk 20:00 | Rest | Rest | 4miles 40:20|
+| 12th| 13th | 14th | 15th | 16th | 17th | 18th |
+| Rest| 3mile 29:20 | 2miles | 3miles | Rest| cross |
+| 19th|20th |21st |22th | 23th | 24th | 25th | 26th  |
+|-----|-----|-----|-----|-----|-----|-----|
+| 27th | 28th | 29th | 30th | 31th  | n/a | n/a | 
+|-----|-----|-----|-----|-----|-----|-----|
