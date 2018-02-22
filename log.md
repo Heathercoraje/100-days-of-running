@@ -45,13 +45,16 @@
 **Thoughts:** 
 ```
 while (heartache) {
-  setTimeout(function getBackToLife()  {
-    code();
-    eatHealthy();
-    workOut();
-    sleep();
-    }, 8.64e+7);
+  setTimeout(() => {
+    getBackToLife()  {
+      wakeUp();
+      code();
+      eatHealthy();
+      workOut();
+      sleep();
+    }}, 8.64e+7);
 }
+up-level();
          
 ```
 
