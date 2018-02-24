@@ -67,6 +67,6 @@ up-level();
 | 12th| 13th | 14th | 15th | 16th | 17th | 18th |
 | Rest| 3mile 29:20 | 2miles 20:10 |missed day |Rest|cross:60min | 4miles 39:55|
 | 19th|20th |21st |22th | 23th | 24th | 25th | 26th  |
-|-----|3.5miles 35:35 | Yoga | 3.5miles 34:29 | Yoga | 2miles | 5 miles|
+|-----|3.5miles 35:35 | Yoga | 3.5miles 34:29 | Yoga | 2miles 17:30 | 5 miles|
 | 27th | 28th | 29th | 30th | 31th  | n/a | n/a | 
 |-----|-----|-----|-----|-----|-----|-----|
