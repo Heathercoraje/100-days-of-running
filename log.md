@@ -63,10 +63,10 @@ up-level();
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |    
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 5th | 6th | 7th | 8th | 9th | 10th| 11th|
-| Rest| 3miles 38:00 | 3miles 31:00 |  walk 20:00 | Rest | Rest | 4miles 40:20|
+| Rest| 3 miles 38:00 | 3miles 31:00 |  walk 20:00 | Rest | Rest | 4miles 40:20|
 | 12th| 13th | 14th | 15th | 16th | 17th | 18th |
-| Rest| 3mile 29:20 | 2miles 20:10 |missed day |Rest|cross:60min | 4miles 39:55|
-| 19th|20th |21st |22th | 23th | 24th | 25th | 26th  |
-|-----|3.5miles 35:35 | Yoga | 3.5miles 34:29 | Yoga | 2miles 17:30 | 5 miles 51:20 |
+| Rest| 3 mile 29:20 | 2miles 20:10 |missed day |Rest|cross:60min | 4miles 39:55|
+| 19th|20th |21st |22th | 23th | 24th | 25th |
+|-----|3.5 miles 35:35 | Yoga | 3.5 miles 34:29 | Yoga | 2 miles 17:30 | 5 miles 51:20 |
 | 27th | 28th | 29th | 30th | 31th  | n/a | n/a | 
-|-----|-----|-----|-----|-----|-----|-----|
+| yoga | 3.5 miles | 2 miles |3.5 miles |-----|-----|-----|
