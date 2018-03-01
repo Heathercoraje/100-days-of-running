@@ -58,7 +58,7 @@ up-level();
          
 ```
 
-**March** 
+**FEB ** 
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |    
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -68,5 +68,5 @@ up-level();
 | Rest| 3 mile 29:20 | 2miles 20:10 |missed day |Rest|cross:60min | 4miles 39:55|
 | 19th|20th |21st |22th | 23th | 24th | 25th |
 |-----|3.5 miles 35:35 | Yoga | 3.5 miles 34:29 | Yoga | 2 miles 17:30 | 5 miles 51:20 |
-| 27th | 28th | 29th | 30th | 31th  | n/a | n/a | 
-| yoga | 3.5 miles 33:30 | yoga |3.5 miles |-----|-----|-----|
+| 26th | 27th | 28th | 1st | 2nd | 3nd | 4nd | 
+| yoga | 3.5 miles 33:30 | yoga |3.5 miles Lost record:(|-----|-----|-----|
