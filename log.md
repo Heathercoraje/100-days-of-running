@@ -71,4 +71,4 @@ up-level();
 | 26th | 27th | 28th | 1st | 2nd | 3nd | 4nd | 
 | yoga | 3.5 miles 33:30 | yoga |3.5 miles Lost record:(|yoga, excited for key run tomorrow | 5 miles 48:53 |-----|
 | 5th | 6th | 7th | 8th | 9th | 10th | 11th | 
-| yoga | yoga | 4miles 42:00 (leg)| rest | 3.5miles 38:21  | 40min cross(shoulder) | 6miles(arm) |
+| yoga | yoga | 4miles 42:00 (leg)| rest | 3.5miles 38:21  | 20min cross/bicep,tricep | 6miles(shoulder) |
