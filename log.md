@@ -73,4 +73,4 @@ up-level();
 | 5th | 6th | 7th | 8th | 9th | 10th | 11th | 
 | yoga | yoga | 4miles 42:00 (leg)| rest | 3.5miles 38:21  | 20min cross/bicep,tricep | 6miles(shoulder) 59:50 |
 | 12th | 13th | 14th | 15th | 16th | 17th | 18th | 
-| yoga | 4miles(legs) 38:50 | ashtanga yoga | 4miles(shouder/chest) | evening yoga(arm) | rest | 7 miles|
+| yoga | 4miles(legs) 38:50 | ashtanga yoga | 3mile 30:03 | 4miles evening yoga(chest/shoulder) | rest | 7 miles (arm)|
