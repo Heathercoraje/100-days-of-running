@@ -60,22 +60,23 @@ up-level();
 
 **Febrary** 
 
-| Mon | Tue | Wed | Thu | Fri | Sat | Sun |    
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 5th | 6th | 7th | 8th | 9th | 10th| 11th|
-| Rest| 3 miles 38:00 | 3miles 31:00 |  walk 20:00 | Rest | Rest | 4miles 40:20|
-| 12th| 13th | 14th | 15th | 16th | 17th | 18th |
-| Rest| 3 mile 29:20 | 2miles 20:10 |missed day |Rest|cross:60min | 4miles 39:55|
-| 19th|20th |21st |22th | 23th | 24th | 25th |
-|-----|3.5 miles 35:35 | Yoga | 3.5 miles 34:29 | Yoga | 2 miles 17:30 | 5 miles 51:20 |
-| 26th | 27th | 28th | 1st | 2nd | 3nd | 4nd | 
+| week|  Mon | Tue | Wed | Thu | Fri | Sat | Sun |    
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| week 1 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
+|   | Rest | 3 miles 38:00 | 3 miles 31:00 |  walk 20:00 | Rest | Rest | 4miles 40:20|
+| week 2 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |
+|   | Rest | 3 mile 29:20 | 2 miles 20:10 | missed day | Rest| cross: 60min | 4 miles 39:55|
+| week 3 | 19  | 20 | 21 | 22 | 23 | 24 | 25 |
+|   | 3.5 miles 35:35 | Yoga | 3.5 miles 34:29 | Yoga | 2 miles 17:30 | 5 miles 51:20 |
+| week 4 | 26 | 27 | 28 | 1 | 2 | 3 | 4 | 
+|   | yoga | 3.5 miles 33:30 | yoga | 3.5 miles Lost record:(| yoga | 5 miles 48:53 | Rest |
 
 **March** 
-| yoga | 3.5 miles 33:30 | yoga |3.5 miles Lost record:(|yoga, excited for key run tomorrow | 5 miles 48:53 |-----|
-| 5th | 6th | 7th | 8th | 9th | 10th | 11th | 
-| yoga | yoga | 4miles 42:00 (leg)| rest | 3.5miles 38:21  | 20min cross/bicep,tricep | 6miles(shoulder) 59:50 |
-| 12th | 13th | 14th | 15th | 16th | 17th | 18th | 
-| yoga | 4miles(legs) 38:50 | ashtanga yoga | 3mile 30:03 | yoga | rest | 5 miles (arm)(chest/shoulder)|
+
+| week 5 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 
+|   | yoga | yoga | 4miles 42:00 (leg)| rest | 3.5miles 38:21  | 20 min cross/bicep,tricep | 6 miles(shoulder) 59:50 |
+| week 6 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 
+|   | yoga | 4miles(legs) 38:50 | yoga | 3mile 30:03 | yoga | rest | 5 miles |
 
 Training needs to be more strict. 
 
@@ -83,6 +84,9 @@ Training needs to be more strict.
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |    
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 19 | 20 | 21 | 22 | 23 | 24 |
-| yoga|     |    |   |   |    | 
-
+| week 7 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 
+|  run  | yoga |    |    |    |    |     |      |
+|  lift |      |    |    |    |    |     |     |
+| week 8 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 
+|  run  | yoga |    |    |    |    |     |     |
+|  lift |      |    |    |    |    |     |     |
