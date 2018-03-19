@@ -81,10 +81,10 @@ Training needs to be more strict.
 |     | yoga | yoga | 4miles 42:00 | rest | 3.5 miles 38:21  | 20 min cross| 6 miles 59:50 |
 |     |      |    |  legs  |    |    | arms | chest/shoulder  |
 | week 6 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 
-|     | yoga | 4miles 38:50 | yoga | 3mile 30:03 | yoga | rest | 5 miles |
+|     | yoga | 4 miles 38:50 | yoga | 3mile 30:03 | yoga | rest | 5 miles |
 |     |      | legs |    |    |    |     |     |
 | week 7 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 
-|     | yoga |    |    |    |    |     |     |
+|     | yoga |  4.5 miles | 3   | 4.5 | Rest | 50 cross | 7miles |
 |     |      |    |    |    |    |     |     |
 | week 8 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 
 |     | yoga |    |    |    |    |     |     |
