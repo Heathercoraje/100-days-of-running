@@ -83,4 +83,5 @@ Training needs to be more strict.
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |    
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| yoga| 
 
