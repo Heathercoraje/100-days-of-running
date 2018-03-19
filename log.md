@@ -78,14 +78,14 @@ Training needs to be more strict.
 | week | Mon | Tue | Wed | Thu | Fri | Sat | Sun |    
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | week 5 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 
-|   | yoga | yoga | 4miles 42:00 | rest | 3.5 miles 38:21  | 20 min cross| 6 miles 59:50 |
-|  lift |      |    |  legs  |    |    | arms | chest/shoulder  |
+|     | yoga | yoga | 4miles 42:00 | rest | 3.5 miles 38:21  | 20 min cross| 6 miles 59:50 |
+|     |      |    |  legs  |    |    | arms | chest/shoulder  |
 | week 6 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 
-|   | yoga | 4miles 38:50 | yoga | 3mile 30:03 | yoga | rest | 5 miles |
-|  lift |      | legs |    |    |    |     |     |
+|     | yoga | 4miles 38:50 | yoga | 3mile 30:03 | yoga | rest | 5 miles |
+|     |      | legs |    |    |    |     |     |
 | week 7 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 
-|  run  | yoga |    |    |    |    |     |     |
-|  lift |      |    |    |    |    |     |     |
+|     | yoga |    |    |    |    |     |     |
+|     |      |    |    |    |    |     |     |
 | week 8 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 
-|  run  | yoga |    |    |    |    |     |     |
-|  lift |      |    |    |    |    |     |     |
+|     | yoga |    |    |    |    |     |     |
+|     |      |    |    |    |    |     |     |
