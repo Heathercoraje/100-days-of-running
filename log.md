@@ -72,7 +72,8 @@ up-level();
 |   | yoga | 3.5 miles 33:30 | yoga | 3.5 miles Lost record:(| yoga | 5 miles 48:53 | Rest |
 
 **March** 
-
+| week |  Mon | Tue | Wed | Thu | Fri | Sat | Sun |    
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | week 5 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 
 |   | yoga | yoga | 4miles 42:00 (leg)| rest | 3.5miles 38:21  | 20 min cross/bicep,tricep | 6 miles(shoulder) 59:50 |
 | week 6 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 
