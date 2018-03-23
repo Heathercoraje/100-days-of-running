@@ -84,7 +84,7 @@ Training needs to be more strict.
 |     | yoga | 4 miles 38:50 | yoga | 3mile 30:03 | yoga | rest | 5 miles |
 |     |      | legs |    |    |    |     |     |
 | week 7 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 
-|     | yoga |  4.5 miles 47:00 | Ashtanga  | 4.5 45:49 | Yoga  | 50 cross | 7miles |
+|     | yoga |  4.5 miles 47:00 | Ashtanga  | 4.5 miles 45:49 | Yoga  | 50 cross | 7miles |
 |     |      |  shoulder/chest  | arms  |   |           |       |          |
 | week 8 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 
 |     | yoga |    |    |    |    |     |     |
