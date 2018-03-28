@@ -87,5 +87,5 @@ Training needs to be more strict.
 |     | yoga |  4.5 miles 47:00 | Ashtanga  | 4.5 miles 45:49 | Yoga  | 8.3km walk | 5 miles (no record) |
 |     |      |  shoulder/chest  | arms  |   |           |       |          |
 | week 8 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 
-| yoga | 5 miles and yoga |  3.5 miles and yoga |    |    |    |     |     |
-|      | legs (55min)  |   back(33min)  |    |    |    |     |     |
+|        | yoga | 5 miles and yoga |  3.5 miles and yoga |    |    |    |     |
+|        |      | legs (55min)  |   back(33min)  |    |    |    |     |     |
