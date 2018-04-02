@@ -89,3 +89,11 @@ Training needs to be more strict.
 | week 8 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 
 |        | yoga | 5 miles and yoga |  3.5 miles and yoga | rest   | rest    |  rest  |  7miles   |
 |        |      | legs (55min)  |   back(33min)  |    |    |    |     | arm    |
+
+**April** 
+
+| week | Mon | Tue | Wed | Thu | Fri | Sat | Sun |    
+|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+| week9|  2   |   3  |   4  |   5  |   6  |   7  |   8  |
+|      | yoga / 7 miles | yoga / 5miles |  yoga/ 3 miles  | 5 miles   |  rest  |  rest  | 9 miles  |
+|      | 68:00          | legs          |     back        |   arms    |        |        |          |   
