@@ -96,4 +96,4 @@ Training needs to be more strict.
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 | week9|  2   |   3  |   4  |   5  |   6  |   7  |   8  |
 |      | yoga / 7 miles | yoga / 3 miles (31:10) |    yoga   |   5 miles (44:10)   |  yoga / 5 miles   |  rest  | 9 miles  |
-|      | 68:00          |  shoulder/ chest       |    rest   |        arms         |      rest         |  Legs  |          |
+|      | 68:00          |  shoulder/ chest       |    rest   |        arms         |      rest         |  Legs  |   88:00  |
