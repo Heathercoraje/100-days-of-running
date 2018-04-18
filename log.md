@@ -102,4 +102,4 @@ Training needs to be more strict.
 |      |       |  shoulder/ chest |    rest   |   legs     |      arm |   rest   | 105:47  then died |
 |week11|   16  |   17  |  18  |  19  |  20  |  21  |  22  |
 |      | yoga  |  5miles |    3miles/yoga |   5miles   |  yoga |  60 min cross   | 10 miles  |
-|      |  legs |  shoulder/ chest |    rest   |        |      arm |   rest   |        |
+|      |  legs |  47:18 |    shoulder/ chest   |        |      arm |   rest   |        |
