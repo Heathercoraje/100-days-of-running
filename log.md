@@ -107,10 +107,10 @@ Training needs to be more strict.
 
 ### Final week of training
 
-Cutting down sugar intake. 
-Running in the morning to get used to working out in the morning.
-Sleep earlier and wake up earlier than usual for this week.
-Skip leg day. 
++ Cutting down sugar intake. 
++ Running in the morning to get used to working out in the morning.
++ Sleep earlier and wake up earlier than usual for this week.
++ Skip leg day. 
 
 **23rd, Monday**
 Rest day. Yoga
@@ -132,4 +132,4 @@ Rest day. Yoga
 rest 
 
 **29th, Sunday**
-race 
+race at 9:00 A.M.
