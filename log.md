@@ -103,3 +103,33 @@ Training needs to be more strict.
 |week11|   16  |   17  |  18  |  19  |  20  |  21  |  22  |
 |      | yoga  |  5miles |   3miles/yoga 20:00min |              |  Yoga / 5miles  | 60 min cross(walk) | 10 miles  |
 |      |  legs |  47:18  |    shoulder/ chest       |     rest   |    arms 52min   |        rest        |   legs    |
+
+
+### Final week of training
+
+Cutting down sugar intake. 
+Running in the morning to get used to working out in the morning.
+Sleep earlier and wake up earlier than usual for this week.
+Skip leg day. 
+
+**23rd, Monday**
+Rest day. Yoga
+
+**24th, Tuesday**
+4miels, 36:10. Yoga, lifting shoulders/back/chest
+
+
+**25th, Wednesday**
+3miles, yoga, lifting arms
+
+**26th, Thurdays**
+3miles, yoga 
+
+**27th, Friday**
+60min cross, yoga
+
+**28th, Saturday**
+rest 
+
+**29th, Sunday**
+race 
